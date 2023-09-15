@@ -5,6 +5,9 @@ html {
 a {
     text-decoration: none;
 }
+h1 {
+    font-size: 2rem;
+}
 h2 {
     font-size: 1.35rem;
     margin-bottom: 0;
@@ -112,4 +115,13 @@ header {
 
 #press .title {
     font-size: 1.25rem;
+}
+
+/* Calendar */
+#calendar .date .day {
+    font-size: 2.75rem;
+}
+
+#calendar .date .month {
+    font-size:  1.5rem;
 }

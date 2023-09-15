@@ -40,7 +40,7 @@
         <!-- Bio -->
         <div id="bio" class="box">
             <div class="container d-flex flex-column">
-                <h2 class="fw-bold">GuyRo</h2>
+                <h1 class="fw-bold">GuyRo</h2>
 
                 <p>Irish-born, Spanish-based electronica DJ and producer, David, a.k.a. GuyRo got swept up by the electronica steam train back during it's early beginnings. Harking back to his younger years, with fond memories as a pre-teen, armed with just a Sony Walkman and a collection of acid house mix tapes in his backpack, it is fair to say not many discover their passions quite as early as GuyRo. It wasn't long into his teenage years before he'd develop an insatiable thirst for crate digging — flipping through record after record picking out the dancefloor gems that would further ignite his passion for music.</p>
 
@@ -60,8 +60,8 @@
                 <div class="d-flex justify-content-between">
                     <div class="photo photo-5"></div>
                     <div class="date d-flex flex-column">
-                        <span class="fw-bold lh-1">23</span>
-                        <span class="fw-bold">May</span>
+                        <span class="day lh-1">23</span>
+                        <span class="month fw-bold">May</span>
                     </div>
                     <div class="venue">
                         <span class="fw-bold">House of Blues</span>
@@ -74,8 +74,8 @@
                 <div class="d-flex justify-content-between">
                     <div class="photo photo-3"></div>
                     <div class="date d-flex flex-column">
-                        <span class="fw-bold lh-1">23</span>
-                        <span class="fw-bold">May</span>
+                        <span class="day lh-1">23</span>
+                        <span class="month fw-bold">May</span>
                     </div>
                     <div class="venue">
                         <span class="fw-bold">House of Blues</span>
@@ -88,8 +88,8 @@
                 <div class="d-flex justify-content-between">
                     <div class="photo photo-1"></div>
                     <div class="date d-flex flex-column">
-                        <span class="fw-bold lh-1">23</span>
-                        <span class="fw-bold">May</span>
+                        <span class="day lh-1">23</span>
+                        <span class="month fw-bold">May</span>
                     </div>
                     <div class="venue">
                         <span class="fw-bold">House of Blues</span>
@@ -120,8 +120,6 @@
             </div>
         </div>
 
-        
-
         <div id="music" class="box">
             <div class="container d-flex flex-column">
                 <div class="d-flex align-items-center">
@@ -133,7 +131,10 @@
 
         <div id="press" class="box">
             <div class="container d-flex flex-column">
-                <h2 class="fw-bold">Press</h2>
+                <div class="d-flex align-items-center">
+                    <img class="icon" src="/assets/img/press-light.svg">
+                    <h2 class="fw-bold">Press</h2>
+                </div>
 
                 <div class="blog-single">
                     <span class="title lh-1 fw-bold"><a href="">The Underground Sound is Big - New Article on the New Movement</a></span>

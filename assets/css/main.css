@@ -13,6 +13,8 @@ h2 {
     margin-bottom: 0;
 }
 .icon {
+    width: 1.15rem;
+    height: 1.15rem;
     max-height: 1.15rem;
     max-width: 1.15rem;
     margin-right: 0.5rem;
